@@ -7,13 +7,14 @@ import VueMasteryModal from './VueMasteryModal.vue';
 <template>
   <section id="hero">
     <h1 class="tagline">
-      The
-      <span class="accent">Progressive</span>
-      <br />JavaScript Framework
+      这是
+      <span class="accent">
+        一些
+      </span>
+      <br /> 不明所以的然不然
     </h1>
     <p class="description">
-      An approachable, performant and versatile framework for building web
-      user interfaces.
+       一个客户获得的说明懂是多少度说的，说的说的，说的的的，说的说的
     </p>
     <p class="actions">
       <vue-mastery-modal />
@@ -37,19 +38,19 @@ import VueMasteryModal from './VueMasteryModal.vue';
 
   <!-- TODO make dynamic based on data -->
   <section id="special-sponsor">
-    <span>Special Sponsor</span>
-    <a href="https://www.dcloud.io/hbuilderx.html?hmsr=vue-en&hmpl=&hmcu=&hmkw=&hmci=">
-      <picture>
-        <source type="image/avif" srcset="/images/sponsors/hbuilder.avif" />
-        <img
-          alt="hbuilder logo"
-          width="97"
-          height="36"
-          src="/images/sponsors/hbuilder.png"
-        />
-      </picture>
-    </a>
-    <span>Advanced IDE for Vue</span>
+<!--    <span>Special Sponsor</span>-->
+<!--    <a href="https://www.dcloud.io/hbuilderx.html?hmsr=vue-en&hmpl=&hmcu=&hmkw=&hmci=">-->
+<!--      <picture>-->
+<!--        <source type="image/avif" srcset="/images/sponsors/hbuilder.avif" />-->
+<!--        <img-->
+<!--          alt="hbuilder logo"-->
+<!--          width="97"-->
+<!--          height="36"-->
+<!--          src="/images/sponsors/hbuilder.png"-->
+<!--        />-->
+<!--      </picture>-->
+<!--    </a>-->
+<!--    <span>Advanced IDE for Vue</span>-->
   </section>
 
   <section id="highlights" class="vt-box-container">
