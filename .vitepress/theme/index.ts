@@ -9,6 +9,7 @@ import {
   filterHeadersByPreference
 } from './components/preferences'
 import SponsorsAside from './components/SponsorsAside.vue'
+// @ts-ignore
 import VueJobs from './components/VueJobs.vue'
 
 export default Object.assign({}, VPTheme, {
